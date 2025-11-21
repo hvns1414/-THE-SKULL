@@ -1,0 +1,10 @@
+# These modules are part of Python's standard library.
+# They are included here only for documentation purposes.
+socket
+threading
+time
+sys
+optparse
+os
+colorama
+typing
