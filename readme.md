@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="cookie\logo.png" width="200" height="165" alt="The Skull Logo">
+  <img src="1000004178-removebg-preview.png " width="200" height="165" alt="The Skull Logo">
 </p>
 
 <h1 align="center">🦅 The-Skull Port Forwarding Engine</h1>
@@ -193,5 +193,6 @@ text
 
 Made with ❤️ and Python by YourName
 yaml
+
 
 
